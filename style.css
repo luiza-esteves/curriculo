@@ -42,7 +42,14 @@
     font-weight: bold;
     font-size: 30px;
     color: black;
+    
 }
+
+a:hover {
+    text-decoration: underline;
+    background:#F5F5F5;
+    color: #FA8072
+    }
 
 .inicio{
     display: flex;
@@ -71,24 +78,25 @@
 
 .idade{
     display: flex;
-    font-size: 20px;
+    font-size: 25px;
+   
 }
 
 .curso{
     display: flex;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 
 .atuacao{
     display: flex;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 
 .email{
     display: flex;
-    font-size: 20px;
+    font-size: 25px;
 
 }
 
@@ -121,6 +129,7 @@
 
 .for{
     margin-left: 60px;
+    font-size: 25px;
 }
 .experienciasTotais{
     display: flex;
@@ -133,21 +142,22 @@ minhasExp{
     text-align: justify;
     padding: 60px;
     
+    
 }
 .tit{
-    font-size: 25px;
+    font-size: 30px;
     font-weight: bold;
     margin-top: 20px;
 }
 
 .data{
-    font-size: 20px;
+    font-size: 25px;
     margin-top: 15px;
     
 }
 
 .descricao{
-    font-size: 20px;
+    font-size: 25px;
     margin-bottom: 50px;
 
 }
