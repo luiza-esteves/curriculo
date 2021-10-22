@@ -31,14 +31,14 @@
     align-items: center;
     justify-content: center;
     margin-bottom: 10px;
-    padding-top: 20px;
+    padding-top: 10px;
 
 
 }
 
 .menuNavegacao{
     background-color: #C0C0C0;
-    padding-left: 100px;
+    padding-left: 50px;
     font-weight: bold;
     font-size: 30px;
     color: black;
@@ -95,7 +95,7 @@
 .sobreMim{
     display: flex;
     flex-direction: column;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 
 .titulo{
@@ -112,11 +112,21 @@
     color: black;
 }
 
+.formacoesAcademicas{
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+
+}
+
+.for{
+    margin-left: 60px;
+}
 .experienciasTotais{
     display: flex;
     text-align: center;
     flex-direction: column; 
-    margin-top: 20px;
+    margin-top: 60px;
 }
 
 minhasExp{
@@ -147,7 +157,7 @@ minhasExp{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 80px;
+    margin-top: 60px;
 }
 .logoRedes{
     display: flex;
