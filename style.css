@@ -20,9 +20,9 @@
 }
 
 .mainClass{
-    background-color:	#C0C0C0;
+    background-color:	#D9A282;
     display: block;
-    border: 50px solid #4F4F4F;
+    border: 50px solid #261B14;
 }
 
 .barraNavegacao{
@@ -37,7 +37,7 @@
 }
 
 .menuNavegacao{
-    background-color: #C0C0C0;
+    background-color: #BFB38E;
     padding-left: 50px;
     font-weight: bold;
     font-size: 30px;
@@ -48,7 +48,7 @@
 a:hover {
     text-decoration: underline;
     background:#F5F5F5;
-    color: #FA8072;
+    color:#8C5B3E;
 }
 
 .inicio{
