@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: "Montserrat", Arial;
+
+}
+
+
+.picture{
+   
+    height: 15rem;
+    width: 15rem;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.mainClass{
+    background-color:	#48D1CC;
+    display: block;
+    border: 50px solid #20B2AA;
+}
+
+.barraNavegacao{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    padding-top: 20px;
+
+
+}
+
+.menuNavegacao{
+    background-color: #B0C4DE;
+    padding-left: 100px;
+    font-size: 30px;
+}
+
+.inicio{
+    display: flex;
+    margin-top: 80px;
+}
+
+.informacoes{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    margin-left: 80px;
+    margin-top: 20px;
+
+}
+
+.picture{
+    margin-left: 20px;
+}
+.nome{
+    display: flex;
+    font-size: 30px;
+    flex-direction: row;
+    color: black;
+}
+
+.idade{
+    display: flex;
+    font-size: 20px;
+}
+
+.curso{
+    display: flex;
+    font-size: 20px;
+
+}
+
+.atuacao{
+    display: flex;
+    font-size: 20px;
+
+}
+
+.email{
+    display: flex;
+    font-size: 20px;
+
+}
+
+.sobreMim{
+    display: flex;
+    flex-direction: column;
+    margin-top: 80px;
+}
+
+.titulo{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+.textoSobreMim{
+    font-size: 22px;
+    text-align: justify;
+    padding: 50px;
+}
+
+.experienciasTotais{
+    display: flex;
+    text-align: center;
+    flex-direction: column; 
+    margin-top: 20px;
+
+}
+
+minhasExp{
+    text-align: justify;
+    padding: 60px;
+    
+}
+.tit{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.data{
+    font-size: 20px;
+    margin-top: 15px;
+    
+}
+
+.descricao{
+    font-size: 20px;
+    margin-bottom: 50px;
+
+}
+
+.redes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+.logoRedes{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+.link{
+    margin-right: 90px;
+}
+
+.icone{
+   display: block;
+   margin-left: auto;
+    margin-right: auto;
+
+}
