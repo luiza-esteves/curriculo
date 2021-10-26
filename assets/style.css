@@ -26,16 +26,12 @@
 }
 
 .barraNavegacao{
-    position: fixed;
-    height: 45px;
-    left:0;
-    top:0px;
-    background-color:#BFB38E ;
-    width: 100%;
+    display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-
+    margin-bottom: 10px;
+    padding-top: 10px;
 
 
 }
